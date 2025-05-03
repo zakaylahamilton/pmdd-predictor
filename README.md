@@ -1,2 +1,3 @@
-# PMDD PREDICTOR
-Applies transformer-based Natural Language Processing (NLP) and Machine Learning (ML) to structured patient data to predict PMDD and analyze related reproductive mood disorders. Examines clinical factors like mood history, stress, and menstrual patterns to support early diagnosis, uncover comorbidities, and enhance care in women’s mental health.
+# PMDD Prediction using Deep Learning
+
+This project builds a binary classification model to predict whether a woman has PMDD (Premenstrual Dysphoric Disorder) based on features in a health dataset. It uses a neural network built with TensorFlow/Keras, regularization to prevent overfitting, and visualizes training performance.

@@ -38,6 +38,3 @@ This project uses a neural network to predict whether a woman has PMDD (Premenst
 ## 🙏 Acknowledgments
 
 - Course: Deep Learning 
-- Dataset: [Optional source or "self-collected"]
-- Built with TensorFlow and scikit-learn
-
